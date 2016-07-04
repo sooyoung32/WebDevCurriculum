@@ -1,3 +1,9 @@
+[Knowre의 웹개발커리큘럼](http://blog.kivol.net/post/136582984553/2016-knowre-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC-%EC%9D%B8%ED%84%B4-%EB%AA%A8%EC%A7%91) 을 읽고 반해서 꼭 해봐야겠다고 생각했다.  (인턴지원은 비록 못했지만 ㅠㅠ)
+
+여기에선 이 모든 과정이 4-8주라고 했지만 나는 주당 하나의 Quest를 목표로 한다.
+
+***
+
 # KnowRe web development curriculum 2016
 
 
